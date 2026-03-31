@@ -1,0 +1,24 @@
+# Auto-generated requirements using pip freeze
+# Generated from: main.py
+# Generated at: 2026-03-31 22:08:51.627445
+
+annotated-doc==0.0.4
+cbor2==5.9.0
+certifi==2026.2.25
+cffi==2.0.0
+charset-normalizer==3.4.6
+click==8.3.1
+cryptography==46.0.6
+epsilon-attestation-verifier==1.1.0
+epsilon-sdk==0.3.4
+idna==3.11
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pycparser==3.0
+Pygments==2.20.0
+PyYAML==6.0.3
+requests==2.33.1
+rich==14.3.3
+shellingham==1.5.4
+typer==0.24.1
+urllib3==2.6.3
